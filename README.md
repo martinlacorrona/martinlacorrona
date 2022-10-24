@@ -1,3 +1,4 @@
+<div align="center" markdown="1">
 ### Hi, I'm Martin 👋
 I am a Software Engineer working mainly with Android, Kotlin and Java.  
 
